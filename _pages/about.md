@@ -34,7 +34,7 @@ Before Fudan, I received my B.Eng. from Xidian University in 2022.
 
 1. **Speak Your Dialect: Detecting Java Object Injection Gadget Chains in Third-party (De)serialization Frameworks.**  
  **Bofei Chen**, Lei Zhang, Haoran Zhao, Min Yang, Yinzhi Cao.  
-To appear in the Proceedings of the IEEE Symposium on Security and Privacy (**IEEE S&P**), 2027.
+To appear in the Proceedings of the IEEE Symposium on Security and Privacy (**IEEE S&P**), 2027. *(Acceptance rate: 15.8%)*
 
 2. **Patch-Guided Vulnerability Detection: Extracting Java API Security Rules via Attack-Defense Cross-Analysis.**  
  **Bofei Chen**, Shuang Liao, Lei Zhang, Chibin Zhang, Mathias Payer, Yuan Zhang.  
