@@ -9,7 +9,7 @@ redirect_from:
 
 ## 👩🏻‍🎓 About Me
 
-I am a Ph.D. candidate at the College of Computer Science and Artificial Intelligence, Fudan University, advised by Prof. Min Yang, Prof. Yuan Zhang and Prof. Lei Zhang. I was also a visiting Ph.D. student at Johns Hopkins University, hosted by Prof. Yinzhi Cao.
+I am a Ph.D. candidate at the College of Computer Science and Artificial Intelligence, Fudan University, advised by Prof. Min Yang, Prof. Yuan Zhang and Prof. Lei Zhang. I was also a visiting Ph.D. student at Johns Hopkins University, advised by Prof. Yinzhi Cao.
 
 My research is on vulnerability governance for open-source software, covering the full lifecycle: **discovery, exploitation and verification, and patching**. Methodologically, I combine static/dynamic program analysis with large language models — program analysis enumerates and prunes the candidate search space, the model performs semantic reasoning and code synthesis within that constrained space, and every result is confirmed by real execution.
 
