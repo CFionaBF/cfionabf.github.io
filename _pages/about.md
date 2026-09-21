@@ -73,8 +73,8 @@ I have discovered over 100 zero-day vulnerabilities in widely deployed open-sour
 | CVE-2026-57611 | [Apache Commons JEXL](https://github.com/apache/commons-jexl), [Apache Hive](https://github.com/apache/hive) | RCE |
 | [CVE-2026-41856](https://spring.io/security/cve-2026-41856/) | [Spring for GraphQL](https://github.com/spring-projects/spring-graphql) | Authorization Bypass; CVSS 7.5 |
 | [CVE-2026-40967](https://spring.io/security/cve-2026-40967) | [Spring AI](https://github.com/spring-projects/spring-ai) | Expression Injection; CVSS 8.6 |
-| CVE-2024-46983 | [SOFABolt (Ant Group)](https://github.com/sofastack/sofa-bolt) | RCE |
-| CVE-2023-41331, CVE-2024-23636 | [SOFARPC (Ant Group)](https://github.com/sofastack/sofa-rpc) | RCE |
+| [CVE-2024-46983](https://github.com/advisories/GHSA-c459-2m73-67hj) | [SOFABolt (Ant Group)](https://github.com/sofastack/sofa-bolt) | RCE |
+| [CVE-2023-41331](https://github.com/sofastack/sofa-rpc/security/advisories/GHSA-chv2-7hxj-2j86), [CVE-2024-23636](https://github.com/advisories/GHSA-7q8p-9953-pxvr) | [SOFARPC (Ant Group)](https://github.com/sofastack/sofa-rpc) | RCE |
 
 ## 🏅 Honors and Awards
 
